@@ -3,7 +3,7 @@
 %global core org.abego.treelayout
 Name:          treelayout
 Version:       1.0.3
-Release:       3
+Release:       4
 Group:	Development/Java
 Summary:       Efficient and customizable Tree Layout Algorithm in Java
 License:       BSD
