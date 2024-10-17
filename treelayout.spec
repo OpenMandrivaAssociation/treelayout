@@ -7,7 +7,7 @@ Release:       5
 Group:	Development/Java
 Summary:       Efficient and customizable Tree Layout Algorithm in Java
 License:       BSD
-URL:           http://treelayout.sourceforge.net/
+URL:           https://treelayout.sourceforge.net/
 Source0:       https://github.com/abego/treelayout/archive/v%{version}.tar.gz
 
 BuildRequires: maven-local
